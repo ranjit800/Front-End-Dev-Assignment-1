@@ -1,0 +1,10 @@
+table, th, td {
+    border:2px solid black ;
+  }
+  .spl{
+      width: 50%;
+      text-align: center;
+  }
+     .ime{
+padding: 7%;
+     }
